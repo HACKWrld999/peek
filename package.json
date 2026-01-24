@@ -8,7 +8,7 @@
     "web-ext-types": "^3.2.1"
   },
   "dependencies": {
-    "lodash-es": "^4.17.20",
+    "lodash-es": "^4.17.23",
     "path-browserify": "^1.0.1",
     "webext-dynamic-content-scripts": "^7.1.0",
     "zippack": "^0.1.0"
